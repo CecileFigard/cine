@@ -1,0 +1,80 @@
+h1 {
+    color:#CC0237 ;
+    font-size:35px;
+    text-decoration:;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 80px
+}
+
+       
+
+
+
+h2 {
+    font-family: Orator Std;
+    font-size:33px;
+    margin-top: 90px;
+    text-align:center;     
+    
+}
+
+p {
+margin-top: 20px;
+
+
+}
+
+header a {
+    color: white;
+    font-family: Orator Std;
+    text-decoration: none;
+}
+
+
+header li {
+    text-align: center;
+    display:inline-block;
+	width: 33%;
+    background-color: black;
+    
+    
+
+}
+
+.img-center{
+    display: block;
+    margin: auto;
+}
+
+
+.active {
+ color: #CC0237   
+}
+
+main {
+    max-width: 980px;
+    margin: auto;
+}
+
+.main-center{
+text-align: center;
+    width: 33%;
+}
+
+
+.image-small:hover {
+ width: 300px;
+    
+}
+
+body {
+    background-image: url(images/fond.jpg);
+    background-size:112% auto;
+    
+   
+}
+
+blockquote { 
+margin-top: 90px;
+}
