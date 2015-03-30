@@ -22,6 +22,12 @@ h2 {
     font-size:25px;
     margin-top: 90px;
     text-align:center;     
+    width: 45%;
+    width: 350px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    padding: 12px;
+    margin-bottom: 20px;
+
     
 }
 
@@ -60,6 +66,7 @@ header li {
 p {font-family: Georgia;
     font-size:15px;
     text-align:center;
+    
 }
     
 .img-center{
